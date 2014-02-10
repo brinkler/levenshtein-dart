@@ -1,0 +1,4 @@
+name: levenshtein
+description: An implementation of the Levenshtein distance algorithm
+dependencies:
+  unittest: "0.9.3"
