@@ -1,5 +1,5 @@
 import 'package:unittest/unittest.dart';
-import 'levenshtein.dart';
+import 'lib/levenshtein.dart';
 
 void main() {
   test('test Levenshtein distance of two strings', () {
