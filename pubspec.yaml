@@ -1,7 +1,7 @@
 name: levenshtein
 version: 1.0.2
 author: Conrad Kleinespel <conradk@conradk.com>
-homepage: https://github.com/conradkleinespel/levenshtein-dart
 description: An implementation of the Levenshtein distance algorithm
-dependencies:
-  unittest: "0.9.3"
+homepage: https://github.com/conradkleinespel/levenshtein-dart
+dev_dependencies:
+  test: any
